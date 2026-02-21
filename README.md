@@ -1,5 +1,5 @@
 # leetcode169
-Description
+Description: 
 
 This C++ solution finds the majority element in an array using a sorting-based approach. The majority element is defined as the element that appears more than ⌊n/2⌋ times in the array of size n.
 
